@@ -1,0 +1,6 @@
+libraries we use
+
+01)Numpy - provides multi dimentional array
+02)Pandas - data analysis library
+03)Matplotlib - two dimentional plotting library
+04)Scikit-learn -provides machine learning algorithms
